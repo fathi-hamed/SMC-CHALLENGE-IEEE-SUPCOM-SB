@@ -57,7 +57,7 @@ The "Study Hub" feature enhances the learning environment on educational platfor
 # Prototypes :
 ## Figma prototype 
 ### Link :
-
+![image](https://github.com/fathi-hamed/SMC-CHALLENGE-IEEE-SUPCOM-SB/assets/138572009/ec2bddf5-751c-4da1-8e66-d8ba9765e437)
 ### Screenshots :
 ![Screenshot 2023-12-07 222846](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/3b4a0aef-16e5-4b59-adf5-aed2ccfa5c28)
 # The Study Hub:
