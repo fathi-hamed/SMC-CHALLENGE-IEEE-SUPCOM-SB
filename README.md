@@ -1,12 +1,13 @@
 # SMC-CHALLENGE-IEEE-SUPCOM-SB
 # Grasping the complex interplay in students' lives.
 
-# Work description : 
+# Work description: 
+# Introduction:
 The scope of the challenge involves conducting data analysis to investigate the resilience of students' social, health, or emotional systems. This challenge includes a project that entails data gathering, thorough analysis, and offering actionable suggestions to enhance student well-being.
 
 
 
-# Methodology :
+# Methodology:
 
 ## Data Collection:
 Thе data collеction procеss bеgan by utilizing Googlе Forms, whеrе participants were asked to rеspond to a sеriеs of quеstionnairе statеmеnts еncompassing thrее kеy catеgoriеs: Physical and mеntal hеalth, Studеnts' Social rеlationships, and Emotional Rеsiliеncе.
@@ -26,14 +27,20 @@ There are 3 key axes in the dataset:
 * Social relationships
 * Emotional Resilience
 ## Data Cleaning:
-We Performd data cleaning to address any issues or inconsistencies in the dataset. This didn't involve handling missing values because we haven't any optional ******** in our google form survey but it included dealing with outliers, and correcting data entry errors.
-## Data Transformation
-## Data Reduction
-## Data Formatting
-## Data Splitting
+We Performd data cleaning to address any issues or inconsistencies in the dataset. This didn't involve handling missing values because we haven't any optional field in our google form survey but it included dealing with outliers, and correcting data entry errors.
+## Data Transformation:
+To enhance our analysis, we introduced innovative columns synthesizing existing data. One such column, 'psych_well_being,' combines data from 'burnout' and 'motivation,' offering a more holistic view of subjects' psychological wellness.
+
+Additionally, the 'interaction_term' column resulted from merging 'concentration' and 'team work,' allowing a closer examination of individual focus and collaborative efficiency dynamics. These new columns provide valuable insights into the nuanced interactions between key variables.
+
+To facilitate analysis, we encoded categorical data using the label encoder and employed a mapping function for yes/no questions.
+
+
 
 
 # Insights’ results:
+## Introduction:
+Data exploration has unveiled intriguing insights, shedding light on pivotal factors influencing the investigated phenomenon. Careful analysis has revealed intricate patterns and relationships, exposing previously undiscovered connections and nuances.
 
 
 
@@ -42,8 +49,10 @@ We Performd data cleaning to address any issues or inconsistencies in the datase
 
 
 # Solution:
-
-
+## Introduction: 
+The "Study Hub" feature addresses student challenges—burnout, motivation, concentration, and collaborative learning. It supports effective time management, goal setting, and regular breaks to enhance the overall learning experience on educational platforms.
+## Description of the features
+The "Study Hub" feature enhances the learning environment on educational platforms. Students can study alone or in groups, setting study durations, breaks, and engaging in activities during breaks. Pop-ups ensure connection, and students choose their courses. Group study options include random pairings or choosing acquaintances for synchronized courses, chat, or voice calls. Weekly, students set study goals with progress bars and motivational messages.
 
 # Prototypes :
 ## Figma prototype 
