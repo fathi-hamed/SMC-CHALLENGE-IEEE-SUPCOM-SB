@@ -54,7 +54,7 @@ The "Study Hub" feature addresses student challenges—burnout, motivation, conc
 ## Description of the features
 The "Study Hub" feature enhances the learning environment on educational platforms. Students can study alone or in groups, setting study durations, breaks, and engaging in activities during breaks. Pop-ups ensure connection, and students choose their courses. Group study options include random pairings or choosing acquaintances for synchronized courses, chat, or voice calls. Weekly, students set study goals with progress bars and motivational messages.
 
-# Prototypes :
+# The Study Hub:
 ## Figma prototype 
 ### Link :
 https://www.figma.com/file/3DPFTenpeIpe5ESiGM3WIa/Untitled?type=design&node-id=0%3A1&mode=design&t=gONfKpVSJk6P00Mm-1
