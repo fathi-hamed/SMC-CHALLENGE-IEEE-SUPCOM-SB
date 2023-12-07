@@ -56,7 +56,11 @@ The "Study Hub" feature enhances the learning environment on educational platfor
 
 # Prototypes :
 ## Figma prototype 
-# The study hub:
+### Link :
+
+### Screenshots :
+![Screenshot 2023-12-07 222846](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/3b4a0aef-16e5-4b59-adf5-aed2ccfa5c28)
+# The Study Hub:
 ### Screenshots :
 
 
