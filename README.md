@@ -23,8 +23,7 @@ The scope of the challenge involves conducting data analysis to investigate the 
 
 
 
-
-# Scaling our solution:
+# Solution:
 
 
 
