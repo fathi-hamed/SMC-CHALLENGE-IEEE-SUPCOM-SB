@@ -42,7 +42,7 @@ To facilitate analysis, we encoded categorical data using the label encoder and 
 ## Introduction:
 Data exploration has unveiled intriguing insights, shedding light on pivotal factors influencing the investigated phenomenon. Careful analysis has revealed intricate patterns and relationships, exposing previously undiscovered connections and nuances.##
 ## 1.General Insights:
-![405978889_910731203801427_6641714995836896288_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/c4b82a41-1a0f-
+![405978889_910731203801427_6641714995836896288_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/a5230daf-aa44-4653-bc97-a4d5719d42d9)
 ![370100884_2431319860393213_522297059849387177_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/ba582507-c72a-40f4-923d-93a26df44525)
 ![370231357_365153966193286_7703346626831358151_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/d68268fd-9105-4390-a422-47cb9c80e69d)
 ![371845492_1375491169733386_1197616633136832011_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/2bec64cb-4c31-4771-b4eb-d89ed91cef1d)
@@ -64,7 +64,7 @@ Data exploration has unveiled intriguing insights, shedding light on pivotal fac
 ![403611466_732872781573117_4370932225516009473_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/424d34e2-28a0-4ae9-9c59-d76f2079b263)
 ![403620005_328438943466555_2457076993207895375_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/9c9cbe02-d4aa-4f54-a2a6-863b210d7645)
 ![393188186_7278340485523809_4074686483797740092_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/bac6259b-6061-4cc5-9feb-4af553cfcb71)
-![377149845_880689720104945_7321997319304349567_n](https://github.com/ih
+![377149845_880689720104945_7321997319304349567_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/bccb0228-8410-4441-a944-9ae468d77e67)
 
 
 
@@ -94,7 +94,7 @@ https://www.figma.com/file/3DPFTenpeIpe5ESiGM3WIa/Untitled?type=design&node-id=0
 ![370302173_1015115583110833_1284401823324251876_n](https://github.com/fathi-hamed/SMC-CHALLENGE-IEEE-SUPCOM-SB/assets/138572009/1fda4d2f-54b4-4af2-ba4c-5cb656c46154)
 
 # Video Demo :
-
+https://www.youtube.com/watch?v=q3_MVkTi9lg
 
 
 
