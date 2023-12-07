@@ -61,8 +61,9 @@ The "Study Hub" feature enhances the learning environment on educational platfor
 https://www.figma.com/file/3DPFTenpeIpe5ESiGM3WIa/Untitled?type=design&node-id=0%3A1&mode=design&t=gONfKpVSJk6P00Mm-1
 
 ### Screenshots :
-![Screenshot 2023-12-07 222846](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/3b4a0aef-16e5-4b59-adf5-aed2ccfa5c28)
-![Screenshot 2023-12-07 223812](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/d3682c8b-85e2-489e-a1c4-23002feed7d0)
+![387466463_1593055814795944_6829108503946726984_n](https://github.com/fathi-hamed/SMC-CHALLENGE-IEEE-SUPCOM-SB/assets/138572009/f321385f-25eb-4ab8-be94-845c3583474d)
+![377241610_922838522791925_7603780219790794036_n](https://github.com/fathi-hamed/SMC-CHALLENGE-IEEE-SUPCOM-SB/assets/138572009/d1aa8d7a-fe06-4478-b100-ed2f8dccf620)
+![387495484_1096689051319808_7127970696305827894_n](https://github.com/fathi-hamed/SMC-CHALLENGE-IEEE-SUPCOM-SB/assets/138572009/06f75b74-2584-4e0d-b94f-46e85c0c545a)
 
 # Video Demo :
 
