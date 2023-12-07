@@ -40,11 +40,31 @@ To facilitate analysis, we encoded categorical data using the label encoder and 
 
 # Insights’ results:
 ## Introduction:
-Data exploration has unveiled intriguing insights, shedding light on pivotal factors influencing the investigated phenomenon. Careful analysis has revealed intricate patterns and relationships, exposing previously undiscovered connections and nuances.
+Data exploration has unveiled intriguing insights, shedding light on pivotal factors influencing the investigated phenomenon. Careful analysis has revealed intricate patterns and relationships, exposing previously undiscovered connections and nuances.##
+## 1.General Insights:
+![405978889_910731203801427_6641714995836896288_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/c4b82a41-1a0f-
+![370100884_2431319860393213_522297059849387177_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/ba582507-c72a-40f4-923d-93a26df44525)
+![370231357_365153966193286_7703346626831358151_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/d68268fd-9105-4390-a422-47cb9c80e69d)
+![371845492_1375491169733386_1197616633136832011_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/2bec64cb-4c31-4771-b4eb-d89ed91cef1d)
+![393161949_1279769942672354_8367903540059012972_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/bbdecf82-da19-4c66-aaba-cddaf38f9a29)
+![406178695_385165457196817_616912133851562411_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/c5e9e1fd-aa50-423d-9b66-83bfb0c85b30)
+![405558934_1038340367407890_7822053933057003849_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/0cea01ae-36eb-4916-96db-ffcceab00143)
+![386848514_905238511157832_6337123672575771130_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/0992a4b4-6ccf-40a9-a404-027e0c4ec64d)
+![385544243_888773995772036_8718953656885868127_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/c79322ff-404e-4f78-ac77-eebde119d32c)
+![406067991_1514250589488784_7084488286162652356_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/0f9dfac4-2344-491e-bf92-43eb463d828f)
+![384554732_3245439375764343_8857606594304978071_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/981173da-c871-4abd-9f6f-6d9bead353a7)
 
 
 
+## 2.Specific Insights:
 
+![393092845_1737555993430100_3176606614255505110_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/e8ce241b-7161-45c4-8ea9-3fb15d648297)
+![403629101_791371229672400_2705971684903581953_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/b5ac2958-4b42-43e4-a92d-a91e301abac6)
+![394076160_365182642672832_2005095655273236981_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/d42787bf-3650-44a0-85ae-30ec74ee34d8)
+![403611466_732872781573117_4370932225516009473_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/424d34e2-28a0-4ae9-9c59-d76f2079b263)
+![403620005_328438943466555_2457076993207895375_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/9c9cbe02-d4aa-4f54-a2a6-863b210d7645)
+![393188186_7278340485523809_4074686483797740092_n](https://github.com/ihebbettaibe/ZERAZER/assets/152183684/bac6259b-6061-4cc5-9feb-4af553cfcb71)
+![377149845_880689720104945_7321997319304349567_n](https://github.com/ih
 
 
 
